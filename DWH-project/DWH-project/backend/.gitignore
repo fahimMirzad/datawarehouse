@@ -1,0 +1,4 @@
+
+# Local credentials and runtime ETL state
+backend/.env
+etl/etl-status.json
